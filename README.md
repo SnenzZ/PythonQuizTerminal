@@ -2,15 +2,6 @@
 
 Welcome to the Terminal Quiz Game! This is a simple quiz game written in Python that you can play directly in your terminal.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [How to Play](#how-to-play)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
 This quiz game asks the player a series of questions and scores their answers. The game is a fun way to test your knowledge and see how well you know certain facts.
 
 ## How to Play
